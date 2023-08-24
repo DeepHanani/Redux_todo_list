@@ -1,0 +1,97 @@
+
+.more{
+    display: inline;
+    /* background-color: yellow; */
+    /* margin: 5px; */
+
+    
+}
+.delet-btn{
+    padding: 6px 20px 6px 20px;
+    border: none;
+    border-radius: 8px;
+}
+
+.cover-div{
+    display: inline;
+}
+
+.child-div{
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.child{
+    /* background-color: yellow; */
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(57, 57, 225);
+    margin-top: 6px;
+    padding: 7px;
+    border-radius: 5px;
+    color: white;
+ 
+}
+
+.main-div{
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    /* background-color: brown; */
+    
+}
+
+.input-field{
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.add-btn{
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+body{
+    background-color: rgb(10, 10, 49);
+}
+
+.reset-btn{
+   margin-left: 100px;
+   padding:8px 30px 8px 30px ;
+   border-radius: 8px;
+   font-size: 18px;
+   margin-top: 30px;
+}
+
+.reset-btn:hover{
+    background-color: rgb(57, 57, 225);
+    color: white;
+}
+
+.add-btn:hover{
+    background-color: rgb(57, 57, 225);
+    color: white;
+}
+
+.delet-btn:hover{
+    background-color: rgb(237, 11, 11);
+    color: white;
+}
+
+.title{
+    text-align: center;
+    color: white;
+}
+
+.wraaper{
+    padding-left: 60px;
+}
+
+.child:hover{
+    color: black;
+    background-color: white;
+}
